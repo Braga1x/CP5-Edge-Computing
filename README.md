@@ -14,7 +14,7 @@ Monitoramento da adega da Vinheria Agnello com um **ESP32** simulado no **Wokwi*
 | Recurso | Link |
 |---|---|
 | 🛠️ Projeto no Wokwi | [Acessar projeto](https://wokwi.com/projects/478680184133149697) |
-| 🎥 Vídeo de demonstração https://youtu.be/9yrHAm18_mQ?si=voIenrk79HVglB-l
+| 🎥 Vídeo de demonstração [Acessar projeto](https://youtu.be/9yrHAm18_mQ?si=voIenrk79HVglB-l) |
 | 📦 Repositório no GitHub | [Acessar repositório](https://github.com/Braga1x/CP5-Edge-Computing) |
 
 ---
